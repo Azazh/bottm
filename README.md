@@ -30,7 +30,7 @@ Before running the project, ensure you have the following:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/WeatherBot.git
+git clone https://github.com/Azazh/bottm.git
 cd WeatherBot
 2. Set Up the Database
 Create a database named WeatherBotDB in SQL Server.
