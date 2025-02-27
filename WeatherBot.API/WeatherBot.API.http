@@ -1,0 +1,6 @@
+@WeatherBot.API_HostAddress = http://localhost:5017
+
+GET {{WeatherBot.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

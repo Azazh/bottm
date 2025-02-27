@@ -1,0 +1,48 @@
+# Ignore .NET build artifacts
+bin/
+obj/
+.vs/
+.vscode/
+
+# Ignore local environment files
+.env
+appsettings.Development.json
+
+# Ignore NuGet packages
+packages/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore logs and diagnostics
+logs/
+*.log
+*.nlog
+
+# Ignore IDE-specific files
+.idea/
+*.swp
+*.swo
+
+# Ignore compiled files
+*.dll
+*.pdb
+*.exe
+
+# Ignore test results
+TestResults/
+
+# Ignore Azure Functions artifacts
+local.settings.json
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore Rider files
+.idea/
+*.sln.iml
+
+# Ignore Visual Studio cache files
+*.vs/
+.env
