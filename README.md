@@ -138,36 +138,8 @@ Telegram.Bot for the Telegram Bot library.
 
 Dapper for simplifying database access.
 
-Contact
-For questions or feedback, feel free to reach out:
 
-Email: your-email@example.com
 
-GitHub: your-username
 
-Copy
 
----
-
-### **Key Sections in the `README.md`**
-1. **Project Overview**: A brief description of the project and its purpose.
-2. **Features**: A list of the main features of the bot.
-3. **Prerequisites**: The tools and accounts required to run the project.
-4. **Setup**: Step-by-step instructions for setting up the project.
-5. **Usage**: How to use the bot and API endpoints.
-6. **Project Structure**: A breakdown of the project's folder structure.
-7. **Technologies Used**: A list of the technologies and libraries used in the project.
-8. **License**: Information about the project's license.
-9. **Contributing**: Guidelines for contributing to the project.
-10. **Acknowledgments**: Credits to third-party services and libraries.
-11. **Contact**: Contact information for the project maintainer.
-
----
-
-### **How to Use the `README.md`**
-1. Replace placeholders (e.g., `your-username`, `your-email@example.com`) with your actual information.
-2. Update the **Setup** section if your project requires additional steps.
-3. Add any additional sections or details specific to your project.
-
----
 
