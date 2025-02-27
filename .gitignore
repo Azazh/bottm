@@ -46,3 +46,4 @@ local.settings.json
 # Ignore Visual Studio cache files
 *.vs/
 .env
+Testbot
